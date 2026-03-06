@@ -12,7 +12,7 @@ shareBtn.addEventListener("click", () => {
 
 Here is the website link if you want to check it out [Click Here](https://mohammedaref11.github.io/Article-preview-card/)
 
-Here is the Challenge like if you want to try it out your self [Click Here](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+Here is the Challenge link if you want to try it out your self [Click Here](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
 
 
 ## Desktop
